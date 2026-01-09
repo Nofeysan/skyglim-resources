@@ -1,0 +1,26 @@
+{
+    "providers": [
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/damage/crit/crit_num.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "1234",
+                "5678",
+                "90-\uE200",
+                "\uE200\uE200\uE200\uE200"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/damage/crit/crit_dot.png",
+            "ascent": 4,
+            "height": 4,
+            "chars": [
+                "."
+            ]
+        }
+    ]
+}

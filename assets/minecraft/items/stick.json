@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/stick"
+        },
+        "cases": [
+            {
+                "when": "damage",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/damage"
+                }
+            },
+            {
+                "when": "fire_rod",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/fire_rod"
+                }
+            },
+            {
+                "when": "heal_rod",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/heal_rod"
+                }
+            },
+            {
+                "when": "appraise",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/appraise"
+                }
+            }
+        ]
+    }
+}

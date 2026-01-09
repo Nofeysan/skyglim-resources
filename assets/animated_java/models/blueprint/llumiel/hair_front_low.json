@@ -1,0 +1,32 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/llumiel/llumiel",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [3.75, -0.5, 8],
+			"to": [12.25, 8, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [0, -8.75, 4.25]
+			},
+			"faces": {
+				"north": {
+					"uv": [1, 9.5, 2, 10.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6, 9.5, 5, 10.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

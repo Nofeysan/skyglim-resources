@@ -1,0 +1,95 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/llumiel/llumiel",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.5, 6.5, 6],
+			"to": [12.5, 9.5, 10],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8.75, 8.25, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [8.25, 6, 8.625, 6.75],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [9, 5.5, 8.625, 6],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [9.125, 6, 9.5, 6.75],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8.625, 6, 8.25, 5.5],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [7.75, 6, 8.25, 6.75],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8.625, 6, 9.125, 6.75],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [6.25, 6, 5.75],
+			"to": [12.25, 9.75, 10.25],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8.75, 8.25, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [5.75, 7.75, 6.125, 8.5],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [6.5, 7.25, 6.125, 7.75],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6.625, 7.75, 7, 8.5],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6.125, 7.75, 5.75, 7.25],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [5.25, 7.75, 5.75, 8.5],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.125, 7.75, 6.625, 8.5],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/potion"
+        },
+        "cases": [
+            {
+                "when": "misty",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/potion/misty"
+                }
+            },
+            {
+                "when": "maiotome",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/potion/maiotome"
+                }
+            },
+            {
+                "when": "prelude_fizz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/potion/prelude_fizz"
+                }
+            },
+            {
+                "when": "mocha_milk",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/potion/mocha_milk"
+                }
+            }
+        ]
+    }
+}

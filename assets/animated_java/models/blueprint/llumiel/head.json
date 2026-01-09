@@ -1,0 +1,141 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/llumiel/llumiel",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [4, 8, 4],
+			"to": [12, 16, 12],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [0, -9, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [1, 3, 2, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 3, 1, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3, 3, 4, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2, 3, 3, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2, 3, 1, 2],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3, 2, 2, 3],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [3.725, 7.65, 3.65],
+			"to": [12.275, 16.35, 12.25],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [0, -9, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [1, 1, 2, 2],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 1, 1, 2],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3, 1, 4, 2],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2, 1, 3, 2],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2, 1, 1, 0],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [11.725, 7.65, 3.75],
+			"to": [14.275, 16.35, 3.75],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [0, -9, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [1.125, 13.625, 1.375, 14.625],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [1.125, 13.625, 1.125, 14.625],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [1.375, 13.625, 1.125, 14.625],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [1.375, 13.625, 1.375, 14.625],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [1.375, 13.625, 1.125, 13.625],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [5.725, 16.15, 8],
+			"to": [10.275, 20.35, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [0, -9, 0]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 13.625, 0.5, 14.125],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 13.625, 0, 14.125],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0.5, 13.625, 0, 14.125],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0.5, 13.625, 0.5, 14.125],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0.5, 13.625, 0, 13.625],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
