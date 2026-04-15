@@ -102,5 +102,9 @@
 
     "crafting.goods.fishing.tier-2.name": "よさげな釣り竿",
     "crafting.goods.fishing.tier-2.lore.1": "の釣り竿。",
-    "crafting.goods.fishing.tier-2.lore.2": "これで君も釣りの虜。"
+    "crafting.goods.fishing.tier-2.lore.2": "これで君も釣りの虜。",
+
+    "common.range": "\uf102\uE010 範囲 : ",
+    "item.analyze.name": "識別の書",
+    "item.analyze.lore.1": "\uf102目線の先にいる敵の情報を得ることができる。"
 }
