@@ -144,6 +144,8 @@
     "common.status.dmg": "ダメージ",
 
     "common.range": "\uf102\uE010 範囲 : ",
+    "common.effect": "\uf102\uE010 効果 : ",
+    "common.max_stack": "\uf102\uE010 最大スタック数 : ",
 
     "shop.item.value": "\uf102ℰ 価格",
 
@@ -174,5 +176,33 @@
     "shop.item.tier-1.armor.legs.lore.2": "温かみのある洋服です。",
     "shop.item.tier-1.armor.boots.name": "駆け出しのブーツ",
     "shop.item.tier-1.armor.boots.lore.1": "初心者向けのブーツ。",
-    "shop.item.tier-1.armor.boots.lore.2": "温かみのある靴です。"
+    "shop.item.tier-1.armor.boots.lore.2": "温かみのある靴です。",
+
+    "shop.item.other.arrow.normal.name": "矢",
+    "shop.item.other.arrow.normal.lore.1": "至って普通の矢。",
+    "shop.item.other.arrow.normal.lore.2": "これと言った特徴がないのが特徴。",
+    "shop.item.other.arrow.slow.name": "鈍化の矢",
+    "shop.item.other.arrow.slow.lore.1": "効果付きのちょっといい矢。",
+    "shop.item.other.arrow.slow.lore.2": "たまには使ってあげてね。",
+    "shop.item.other.arrow.slow.effect": "相手を少しの間鈍足にする",
+    "shop.item.other.food.chicken.name": "焼き鳥",
+    "shop.item.other.food.chicken.lore.1": "カリカリに仕上げました。",
+    "shop.item.other.food.chicken.lore.2": "いっぱい食べてね。",
+    "shop.item.other.food.heart_berry.name": "ハートベリー",
+    "shop.item.other.food.heart_berry.lore.1": "食べると元気が出ます。",
+    "shop.item.other.food.heart_berry.lore.2": "体力の回復量はおまけ程度。",
+    "shop.item.other.food.heart_berry.lore.3": "(バニラに比べて回復量が増加しています)",
+    "shop.item.other.food.yellow_berry.name": "イエローベリー",
+    "shop.item.other.food.yellow_berry.lore.1": "食べると活力が湧いてます。",
+    "shop.item.other.food.yellow_berry.lore.2": "魔力の回復量はおまけ程度。",
+    "shop.item.other.food.yellow_berry.lore.3": "(バニラに比べて回復量が増加しています)",
+    "shop.item.other.potion.mp.maiotome.name": "\"舞\"乙女",
+    "shop.item.other.potion.mp.maiotome.lore.1": "焼酎をベースにしたカクテル。",
+    "shop.item.other.potion.mp.misty.name": "ミスティ",
+    "shop.item.other.potion.mp.misty.lore.1": "アイリッシュ・ミストを使った、",
+    "shop.item.other.potion.mp.misty.lore.2": "曲にちなんで作られたカクテル。",
+    "shop.item.other.potion.mp.mocha_milk.name": "モカ・ミルク",
+    "shop.item.other.potion.mp.mocha_milk.lore.1": "甘口で飲みやすいカクテル。",
+    "shop.item.other.potion.mp.prelude.name": "プレリュード・フィズ",
+    "shop.item.other.potion.mp.prelude.lore.1": "カルピスを利用した、冷たいカクテル。"
 }
