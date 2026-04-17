@@ -152,5 +152,11 @@
     "shop.item.tier-1.armor.head.lore.2": "温かみのある洋服です。",
     "shop.item.tier-1.armor.chest.name": "駆け出しの服",
     "shop.item.tier-1.armor.chest.lore.1": "初心者向けの服。",
-    "shop.item.tier-1.armor.chest.lore.2": "温かみのある洋服です。"
+    "shop.item.tier-1.armor.chest.lore.2": "温かみのある洋服です。",
+    "shop.item.tier-1.armor.legs.name": "駆け出しのズボン",
+    "shop.item.tier-1.armor.legs.lore.1": "初心者向けのズボン。",
+    "shop.item.tier-1.armor.legs.lore.2": "温かみのある洋服です。",
+    "shop.item.tier-1.armor.boots.name": "駆け出しのブーツ",
+    "shop.item.tier-1.armor.boots.lore.1": "初心者向けのブーツ。",
+    "shop.item.tier-1.armor.boots.lore.2": "温かみのある靴です。"
 }
