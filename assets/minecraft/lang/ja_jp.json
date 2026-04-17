@@ -147,6 +147,22 @@
 
     "shop.item.value": "\uf102ℰ 価格",
 
+    "shop.item.tier-1.weapon.sword.name": "普通の木の剣",
+    "shop.item.tier-1.weapon.sword.lore.1": "初心者向けの剣。",
+    "shop.item.tier-1.weapon.sword.lore.2": "この剣でみんな経験を積む。",
+    "shop.item.tier-1.weapon.short-sword.name": "普通の木の短剣",
+    "shop.item.tier-1.weapon.short-sword.lore.1": "初心者向けの短剣。",
+    "shop.item.tier-1.weapon.short-sword.lore.2": "とても振りやすいお手頃な短剣。",
+    "shop.item.tier-1.weapon.axe.name": "普通の木の斧",
+    "shop.item.tier-1.weapon.axe.lore.1": "初心者向けの斧。",
+    "shop.item.tier-1.weapon.axe.lore.2": "ずっしりとした重み......だけがある。",
+    "shop.item.tier-1.weapon.bow.name": "普通の弓",
+    "shop.item.tier-1.weapon.bow.lore.1": "初心者向けの弓。",
+    "shop.item.tier-1.weapon.bow.lore.2": "はじめはみんな精度は悪い。",
+    "shop.item.tier-1.weapon.crossbow.name": "普通の絡繰り銃",
+    "shop.item.tier-1.weapon.crossbow.lore.1": "敵を一体まで貫通する。",
+    "shop.item.tier-1.weapon.crossbow.lore.2": "慣れれば扱いやすい銃。",
+
     "shop.item.tier-1.armor.head.name": "駆け出しの帽子",
     "shop.item.tier-1.armor.head.lore.1": "初心者向けの帽子。",
     "shop.item.tier-1.armor.head.lore.2": "温かみのある洋服です。",
