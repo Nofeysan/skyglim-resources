@@ -1,0 +1,51 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:special",
+            "base": "minecraft:item/chest",
+            "model": {
+                "type": "minecraft:chest",
+                "texture": "minecraft:normal"
+            }
+        },
+        "cases": [
+            {
+                "when": "normal",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/chest/normal"
+                }
+            },
+            {
+                "when": "rare",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/chest/rare"
+                }
+            },
+            {
+                "when": "epic",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/chest/epic"
+                }
+            },
+            {
+                "when": "legendary",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/chest/legendary"
+                }
+            },
+            {
+                "when": "mythic",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/chest/mythic"
+                }
+            }
+        ]
+    }
+}
