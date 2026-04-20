@@ -148,6 +148,7 @@
     "common.max_stack": "\uf102\uE010 最大スタック数 : ",
 
     "shop.item.value": "\uf102ℰ 価格",
+    "shop.buy.fail.no_currency": "\uE010 通貨が足りません！",
 
     "shop.item.tier-1.weapon.sword.name": "普通の木の剣",
     "shop.item.tier-1.weapon.sword.lore.1": "初心者向けの剣。",
