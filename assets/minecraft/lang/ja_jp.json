@@ -146,6 +146,8 @@
     "common.range": "\uf102\uE010 範囲 : ",
     "common.effect": "\uf102\uE010 効果 : ",
     "common.max_stack": "\uf102\uE010 最大スタック数 : ",
+    
+    "item.restore.type.sword": "",
 
     "shop.item.value": "\uf102ℰ 価格",
     "shop.buy.fail.no_currency": "\uE010 通貨が足りません！",
@@ -205,5 +207,9 @@
     "shop.item.other.potion.mp.mocha_milk.name": "モカ・ミルク",
     "shop.item.other.potion.mp.mocha_milk.lore.1": "甘口で飲みやすいカクテル。",
     "shop.item.other.potion.mp.prelude.name": "プレリュード・フィズ",
-    "shop.item.other.potion.mp.prelude.lore.1": "カルピスを利用した、冷たいカクテル。"
+    "shop.item.other.potion.mp.prelude.lore.1": "カルピスを利用した、冷たいカクテル。",
+    
+    "stage.1.old-sword.name": "古びた剣",
+    "stage.1.old-sword.name.restore": "<未鑑定> 古びた剣",
+    "stage.1.old-sword.lore.1": "古びた剣"
 }
