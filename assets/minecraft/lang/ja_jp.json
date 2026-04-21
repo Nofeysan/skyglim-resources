@@ -209,7 +209,8 @@
     "shop.item.other.potion.mp.prelude.name": "プレリュード・フィズ",
     "shop.item.other.potion.mp.prelude.lore.1": "カルピスを利用した、冷たいカクテル。",
     
-    "stage.1.old-sword.name": "古びた剣",
     "stage.1.old-sword.name.restore": "<未鑑定> 古びた剣",
-    "stage.1.old-sword.lore.1": "古びた剣"
+    "stage.1.old-sword.name": "古びた剣",
+    "stage.1.old-sword.lore.1": "どこぞの遺跡から出てきた装備。",
+    "stage.1.old-sword.lore.2": "不思議と鋭さは残っている。"
 }
