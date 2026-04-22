@@ -146,8 +146,8 @@
     "common.range": "\uf102\uE010 範囲 : ",
     "common.effect": "\uf102\uE010 効果 : ",
     "common.max_stack": "\uf102\uE010 最大スタック数 : ",
-    
-    "item.restore.type.sword": "",
+    "magic.no_mp.1": "\ue010 MP が足りない！ (必要 MP: ",
+    "magic.no_mp.2": " )",
 
     "shop.item.value": "\uf102ℰ 価格",
     "shop.buy.fail.no_currency": "\uE010 通貨が足りません！",
