@@ -146,8 +146,6 @@
     "common.range": "\uf102\uE010 範囲 : ",
     "common.effect": "\uf102\uE010 効果 : ",
     "common.max_stack": "\uf102\uE010 最大スタック数 : ",
-    "magic.no_mp.1": "\ue010 MP が足りない！ (必要 MP: ",
-    "magic.no_mp.2": " )",
 
     "shop.item.value": "\uf102ℰ 価格",
     "shop.buy.fail.no_currency": "\uE010 通貨が足りません！",
@@ -259,5 +257,23 @@
     "stage.1.ark-canon.name.restore": "<未鑑定> アーク・キャノン",
     "stage.1.ark-canon.name": "アーク・キャノン",
     "stage.1.ark-canon.lore.1": "敵を二体まで貫通する。",
-    "stage.1.ark-canon.lore.2": "安全に使えることこの上なし。"
+    "stage.1.ark-canon.lore.2": "安全に使えることこの上なし。",
+
+    "magic.no_mp.1": "\ue010 MP が足りない！ (必要 MP: ",
+    "magic.no_mp.2": ")",
+    "magic.name.introduce": "\uf102◆ 魔法 : ",
+    "magic.range": "\uf102\uE010 範囲 : ",
+    "magic.cost": "\uf102\uE010 消費MP : ",
+    "magic.cooldown": "\uf102\uE010 クールダウン : ",
+
+    "magic.heal.1.name": "緑の杖",
+    "magic.heal.1.magic": "ヒール",
+    "magic.heal.1.description": "\uf102自身含めた周囲の味方の体力を回復する。",
+    "magic.heal.1.lore.1": "癒しの杖。",
+    "magic.heal.1.lore.2": "危険な場面を救ってくれる。",
+    "magic.fire.1.name": "赤の杖",
+    "magic.fire.1.magic": "ファイア",
+    "magic.fire.1.description": "\uf102一番近くの敵一体にダメージを与える。",
+    "magic.fire.1.lore.1": "初めての杖。",
+    "magic.fire.1.lore.2": "誰もがこれで魔力の扱いを学ぶ。"
 }
