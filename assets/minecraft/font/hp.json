@@ -1,0 +1,17 @@
+{
+    "providers": [
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/status/hp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "1234",
+                "5678",
+                "90-/",
+                "\uE200\uE200\uE200\uE200"
+            ]
+        }
+    ]
+}
