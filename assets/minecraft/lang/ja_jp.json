@@ -105,7 +105,15 @@
     "crafting.goods.fishing.tier-2.lore.2": "これで君も釣りの虜。",
 
     "item.analyze.name": "識別の書",
-    "item.analyze.lore.1": "\uf102目線の先にいる敵の情報を得ることができる。",
+    "item.analyze.lore.1": "\uf102目線の先にいる敵の情報を得る。",
+    "item.analyze.fail": "\uE010 目線の先に対象がいません",
+
+    "item.currency.l.name": "ラピスラズリ",
+    "item.currency.lb.name": "ラピスラズリブロック",
+    "item.currency.el.name": "ラピスラズリ",
+    "item.currency.elb.name": "エンチャントされたラピスラズリブロック",
+    "item.currency.lore.1": "\uf102この世界の基本的な通貨。",
+    "item.currency.lore.2": "と省略される。",
 
     "status-book.occupation": "\uf102\uf102職業",
     "status-book.occupation.0.name": "§7🜸 未設定",
@@ -275,5 +283,13 @@
     "magic.fire.1.magic": "ファイア",
     "magic.fire.1.description": "\uf102一番近くの敵一体にダメージを与える。",
     "magic.fire.1.lore.1": "初めての杖。",
-    "magic.fire.1.lore.2": "誰もがこれで魔力の扱いを学ぶ。"
+    "magic.fire.1.lore.2": "誰もがこれで魔力の扱いを学ぶ。",
+
+    "entity.stage.1.1.name": "腐朽の採掘士",
+    "entity.stage.1.1.lore.1": "ここで朽ち果ててしまった採掘士。",
+    "entity.stage.1.1.lore.2": "肉体はそのまま腐ってしまった。",
+    "entity.stage.1.2.name": "屍の採掘士",
+    "entity.stage.1.2.lore.1": "ここで朽ち果ててしまった採掘士。",
+    "entity.stage.1.2.lore.2": "白骨化し、§3移動速度が少し早くなった。"
+
 }
