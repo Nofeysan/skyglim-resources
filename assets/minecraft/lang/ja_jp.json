@@ -286,10 +286,8 @@
     "magic.fire.1.lore.2": "誰もがこれで魔力の扱いを学ぶ。",
 
     "entity.stage.1.1.name": "腐朽の採掘士",
-    "entity.stage.1.1.lore.1": "ここで朽ち果ててしまった採掘士。",
-    "entity.stage.1.1.lore.2": "肉体はそのまま腐ってしまった。",
+    "entity.stage.1.1.lore": "ここで朽ち果ててしまった採掘士。\n肉体はそのまま腐ってしまった。",
     "entity.stage.1.2.name": "屍の採掘士",
-    "entity.stage.1.2.lore.1": "ここで朽ち果ててしまった採掘士。",
-    "entity.stage.1.2.lore.2": "白骨化し、§3移動速度が少し早くなった。"
+    "entity.stage.1.2.lore": "ここで朽ち果ててしまった採掘士。\n白骨化し、§3移動速度が少し早くなった。"
 
 }
