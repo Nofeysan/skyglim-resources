@@ -288,6 +288,26 @@
     "entity.stage.1.1.name": "腐朽の採掘士",
     "entity.stage.1.1.lore": "ここで朽ち果ててしまった採掘士。\n肉体はそのまま腐ってしまった。",
     "entity.stage.1.2.name": "屍の採掘士",
-    "entity.stage.1.2.lore": "ここで朽ち果ててしまった採掘士。\n白骨化し、§3移動速度が少し早くなった。"
+    "entity.stage.1.2.lore": "ここで朽ち果ててしまった採掘士。\n白骨化し、§3移動速度が少し早くなった。",
+    "entity.stage.2.1.name": "小さな苗木",
+    "entity.stage.2.1.lore": "そばに生えた小さな苗木。\n謎の力で意志を持つようになった。",
+    "entity.stage.2.2.name": "臆病な枝",
+    "entity.stage.2.2.lore": "大木に生えた立派な枝。\n恥ずかしがり屋で遠距離から狙撃する。",
+    "entity.stage.2.3.name": "枯れた葉っぱ",
+    "entity.stage.2.3.lore": "木から落下し風化した葉っぱ。\nちっちゃく奇怪にすばやく動く。",
+    "entity.stage.3.1.name": "迷いの森の亡霊",
+    "entity.stage.3.1.lore": "亡霊となった遭難者。\n未練があり仲間を増やそうと企み、\n§8移動速度低下§rを掛けて妨害してくる。",
+    "entity.stage.3.2.name": "白骨化した遭難者",
+    "entity.stage.3.2.lore": "ここで力尽きた遭難者。\n未練はないが単に暇なため、\n§8移動速度低下§rのちょっかいを掛けてくる。",
+    "entity.stage.3.3.name": "大きめの蜘蛛",
+    "entity.stage.3.3.lore": "伸び伸びと育った蜘蛛。\n素早く動き、的確に弱点を攻撃してくるが、\n打たれ弱く出オチ感がある。",
+    "entity.stage.3.4.name": "影の薄い生き物",
+    "entity.stage.3.4.lore": "細々と生きてきた虫。\n誰からも見向きもされないし一蹴されるが、\n攻撃されると§8採掘速度が低下§rする。",
+    "entity.stage.4.1.name": "本を守る者",
+    "entity.stage.4.1.lore": "本が具現化した者。\n粗雑に扱われる本の姿を見て、\nその怒りから自由に動ける肉体を得た。",
+    "entity.stage.4.2.name": "過激な司書",
+    "entity.stage.4.2.lore": "本を異常に愛する司書。\nなぜかプレイヤーを盗人だと認識しており、\n見つけるやいなや追いかけてくる。",
+    "entity.stage.4.3.name": "本が好きな虫",
+    "entity.stage.4.3.lore": "本のある所に大体いる虫。\n「本」が好きなだけで、別に内容は関係ない。"
 
 }
