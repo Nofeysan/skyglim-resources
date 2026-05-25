@@ -84,7 +84,7 @@
     "story.tutorial.46": "最後に、通貨を渡すからそれで食料とかの準備を忘れないようにね！",
     "story.tutorial.47": "それじゃあ、頑張って、プレイヤーさん！",
 
-    "token.get.count": "[!] 現在の token \ue010 ",
+    "token.get.count": "現在の token \ue010 ",
     "token.selected": " に割り振りました",
     "token.selected.remain": " (残り token: ",
     "token.reset": "\ue010 割り振りをリセットしました",
@@ -129,12 +129,15 @@
     "death.penalty.2": "%% 失ってしまった！",
     "exhange.fail": "\ue010 通貨が不足しています！",
 
-    "stage.return.ball.name": "§ka|§r§a 帰還の宝玉 §k|a",
-    "stage.return.ball.lore.1": "右クリックで使用する。",
-    "stage.return.ball.lore.2": "使用して7秒後に街に帰還することができる。",
-    "stage.return.ball.lore.3": "待機中は移動速度が低下し、",
-    "stage.return.ball.lore.4": "ダメージを受けると中断される。",
+    "stage.return.ball.name": "§kaa§r§a 帰還の宝玉 §r§kaa",
+    "stage.return.ball.lore.1": "§r右クリックで使用する。",
+    "stage.return.ball.lore.2": "§r使用して7秒後に街に帰還することができる。",
+    "stage.return.ball.lore.3": "§r待機中は移動速度が低下し、",
+    "stage.return.ball.lore.4": "§r§cダメージを受けると中断される。",
     "stage.return.start": "\ue010 転送準備を開始します......",
+    "stage.return.tick": "Booting... ",
+    "stage.return.success": "\ue010 転送が完了しました",
+    "stage.return.cancelled": "= Cancelled =",
     "stage.return.fail": "[!] 転送がキャンセルされました",
 
     "crafting.fail.noitem": "\ue010 アイテムを入れてください！",
@@ -246,7 +249,7 @@
 
     "item.currency.l.name": "ラピスラズリ",
     "item.currency.lb.name": "ラピスラズリブロック",
-    "item.currency.el.name": "ラピスラズリ",
+    "item.currency.el.name": "エンチャントされたラピスラズリ",
     "item.currency.elb.name": "エンチャントされたラピスラズリブロック",
     "item.currency.lore.1": "\uf102この世界の基本的な通貨。",
     "item.currency.lore.2": "と省略される。",
