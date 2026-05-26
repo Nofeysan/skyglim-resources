@@ -1,4 +1,11 @@
 {
+    "difficulty.oracle.description": "ワールドのデフォルトの難易度。\n初めての方や戦闘が苦手な方に。",
+    "difficulty.verdict.description": "少し難しい難易度。\nちょっと手ごたえが欲しいあなたに。\n\n敵の§c攻撃力§r・§9防御力§rが§2少し上昇§rする。",
+    "difficulty.singularity.description": "かなり難しい難易度。\n刺激的な戦闘を味わいたいあなたに。\n\n敵の§d体力§r・§c攻撃力§r・§9防御力§rが§4それなりに上昇§rする。",
+    "difficulty.select.button": "\ue011  選択する \ue010",
+    "difficulty.selected.1": "\ue010 難易度を ",
+    "difficulty.selected.2": " に設定しました。",
+    "difficulty.can_be_changed": "(難易度はいつでも変更可能です)",
     "story.next": "§3[ next \ue010 ]",
     "story.item.star.name": "残滓の証",
     "story.???": "<???> ",
@@ -139,6 +146,9 @@
     "stage.return.success": "\ue010 転送が完了しました",
     "stage.return.cancelled": "= Cancelled =",
     "stage.return.fail": "[!] 転送がキャンセルされました",
+    "stage.boss.slain": " を討伐した！",
+
+    "stage.1.name": "グリムダスク坑道",
 
     "crafting.fail.noitem": "\ue010 アイテムを入れてください！",
     "crafting.fail.norecipe": "\ue010 レシピが間違っています！",
@@ -575,6 +585,10 @@
     "entity.stage.1.1.lore": "ここで朽ち果ててしまった採掘士。\n肉体はそのまま腐ってしまった。",
     "entity.stage.1.2.name": "屍の採掘士",
     "entity.stage.1.2.lore": "ここで朽ち果ててしまった採掘士。\n白骨化し、§3移動速度が少し早くなった。",
+    "entity.stage.1.boss.name": "アースシェイカー",
+    "entity.stage.1.boss.lore": "大きく力を蓄えた親玉。\n親しみやすかった雰囲気を感じる......",
+    "entity.stage.1.boss.friend.name": "眷属",
+    "entity.stage.1.boss.friend.lore": "親玉と共に過ごしてきた者。\n長年の時を経て各々特徴を持った。",
     "entity.stage.2.1.name": "小さな苗木",
     "entity.stage.2.1.lore": "そばに生えた小さな苗木。\n謎の力で意志を持つようになった。",
     "entity.stage.2.2.name": "臆病な枝",
