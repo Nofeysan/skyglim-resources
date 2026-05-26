@@ -2,7 +2,7 @@
     "difficulty.oracle.description": "ワールドのデフォルトの難易度。\n初めての方や戦闘が苦手な方に。",
     "difficulty.verdict.description": "少し難しい難易度。\nちょっと手ごたえが欲しいあなたに。\n\n敵の§c攻撃力§r・§9防御力§rが§2少し上昇§rする。",
     "difficulty.singularity.description": "かなり難しい難易度。\n刺激的な戦闘を味わいたいあなたに。\n\n敵の§d体力§r・§c攻撃力§r・§9防御力§rが§4それなりに上昇§rする。",
-    "difficulty.select.button": "\ue011  選択する \ue010",
+    "difficulty.select.button": "\uf104§6\ue011  選択する \ue010",
     "difficulty.selected.1": "\ue010 難易度を ",
     "difficulty.selected.2": " に設定しました。",
     "difficulty.can_be_changed": "(難易度はいつでも変更可能です)",
@@ -38,7 +38,7 @@
     "story.tutorial.20": "その世界は特殊な理の上に成り立っているからまずはそれについて学ぼうか！",
     "story.tutorial.21": "そこのゲートから先に進んでね！",
 
-    "story.tutorial.22": "\n体力や魔力・経験値はホットバーの上に常に表示されているよ",
+    "story.tutorial.22": "体力や魔力・経験値はホットバーの上に常に表示されているよ",
     "story.tutorial.23": "体力と魔力は自然に回復するけど、とてもゆっくりだから戦闘中は回復薬などを用意した方がいいかも！",
     "story.tutorial.24": "それと、インベントリを開いたら右上にある本がステータスブックだよ",
     "story.tutorial.25": "これでステータスが一覧に表示されるよ！すごいだろ！",
@@ -57,18 +57,18 @@
     "tutorial.stats.left": " \ue010 \ue010 \ue010 ",
     "tutorial.stats.right": " \ue011 \ue011 \ue011 ",
 
-    "story.tutorial.28": "\nここでは敵への攻撃方法を教えるね！",
+    "story.tutorial.28": "ここでは敵への攻撃方法を教えるね！",
     "story.tutorial.29": "まずはみんなにこの剣をあげちゃうぞ",
     "story.tutorial.30": "敵に攻撃する時は、チャージが十分に溜まっていないと与えるダメージが極端に下がるから注意！",
     "story.tutorial.31": "じゃあ実際に仮想の敵を倒してみよう！",
-    "story.tutorial.32": "\n上手く倒せたみたいだね！",
+    "story.tutorial.32": "上手く倒せたみたいだね！",
     "story.tutorial.33": "じゃあ次はこれをあげちゃう",
     "story.tutorial.34": "それは見通しの書と言って、目線の先の敵の情報がわかるよ！こんなのだって作れちゃうんだ〜",
     "story.tutorial.35": "それで目の前の敵を見てみて！そこに左右どっちに行けばいいか書いてるからそれを見て進んでね！",
     "story.tutorial.35.lore": "うまく使えたみたいだね！\n敵のヒントを得られるかもしれないから、\n積極的に使っていこう！\n\nあ！そうだった！正しい道は§a左§rだよ！",
     "story.tutorial.35.no": "こっちじゃないみたい！見通しの書で確認してみて！",
 
-    "story.tutorial.36": "\nこの世界には職業が存在しているんだ！",
+    "story.tutorial.36": "この世界には職業が存在しているんだ！",
     "story.tutorial.37": "それぞれの職業ごとに特徴があって、レベルアップ時のステータスアップもその特徴に沿って上がるよ",
     "story.tutorial.38": "1度決めたら変更できないからよ〜く選んでね！",
     
@@ -80,16 +80,33 @@
     "tutorial.occupation.choose": "\uf106§b[ これにする！ ]",
     "tutorial.occupation.fail": "\ue010 すでに職を選択済みです！",
 
-    "story.tutorial.39": "\nよし、決まったみたいだね",
+    "story.tutorial.39": "よし、決まったみたいだね",
     "story.tutorial.40": "そうそう、それとは別にレベルアップしたら自分で好きなステータスを伸ばせるんだよ！",
     "story.tutorial.41": "レベルアップしたら街の教会まで来てみてね",
     "story.tutorial.42": "見通しの書とかの大事なものをなくしてしまった時も教会に来てくれたら渡すよ！",
     "story.tutorial.43": "それじゃあ、先に進もうか！",
 
-    "story.tutorial.44": "\nこれで基本的な説明は以上かな",
+    "story.tutorial.44": "これで基本的な説明は以上かな",
     "story.tutorial.45": "もし冒険中になにか見つけたら、Lキーの進捗で見返せるから忘れないでね！",
     "story.tutorial.46": "最後に、通貨を渡すからそれで食料とかの準備を忘れないようにね！",
     "story.tutorial.47": "それじゃあ、頑張って、プレイヤーさん！",
+
+    "story.guard": "<門番> ",
+    "story.guard.1": "こんにちは！ここではあんまり見ない顔だね?",
+    "story.guard.2.1": "もしかして君がアヴェリアン様がお呼びした冒険者かい?",
+    "story.guard.2.2": "もしかして君たちがアヴェリアン様がお呼びした冒険者かい?",
+
+    "story.guard.2.replay.1": "そうだよ",
+    "story.guard.2.replay.2": "違うよ",
+
+    "story.guard.3.1": "やはりそうでしたか！",
+    "story.guard.3.2": "でもその佇まい......やはりアヴェリアン様がお呼びした冒険者に間違いありませんね",
+    "story.guard.3.3": "まずはお会いしてみてください",
+    "story.guard.4": "この先をまっすぐ進んだ先のお城にいらっしゃいます",
+    "story.guard.5": "では城門をお開けしますね。",
+    "story.guard.6": "ようこそ、スカイグリムへ！",
+
+    "story.avelian": "<アヴェリアン> ",
 
     "token.get.count": "現在の token \ue010 ",
     "token.selected": " に割り振りました",
