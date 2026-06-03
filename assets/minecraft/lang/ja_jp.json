@@ -7,6 +7,7 @@
     "difficulty.selected.2": " に設定しました。",
     "difficulty.can_be_changed": "(難易度はいつでも変更可能です)",
 
+    "container.crafting": "Status",
     "story.next": "§3[ next \ue010 ]",
     "story.item.star.name": "残滓の証",
     "story.???": "<???> ",
@@ -770,6 +771,14 @@
     "magic.boost.1.description": "\uf102一定時間魔法攻撃力が上昇する。",
     "magic.boost.1.lore.1": "魔力を増幅してくれる杖。",
     "magic.boost.1.lore.2": "魔術師はこれにより本来の力を得られる。",
+    "magic.fire-area.1.name": "深紅の杖",
+    "magic.fire-area.1.magic": "リトルメテオ",
+    "magic.fire-area.1.description.1": "\uf102小さな隕石を前方に射出し、",
+    "magic.fire-area.1.description.2": "\uf102敵に当たる・地面につくと爆発を起こし、",
+    "magic.fire-area.1.description.3": "\uf102小範囲内の敵にダメージを与える。",
+    "magic.fire-area.1.lore.1": "お手軽に隕石を召喚できる杖。",
+    "magic.fire-area.1.lore.2": "この杖は先祖が持ち帰ってきた知識から",
+    "magic.fire-area.1.lore.3": "作られたとされている。",
 
     "effect.minecraft.hero_of_the_village": "§5◆ 魔法攻撃力上昇 ◆",
 
