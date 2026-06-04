@@ -7,6 +7,7 @@
     "difficulty.selected.2": " に設定しました。",
     "difficulty.can_be_changed": "(難易度はいつでも変更可能です)",
 
+    "container.crafting": "§b\uf202\uf200\ue011 ステータス \ue010",
     "story.next": "§3[ next \ue010 ]",
     "story.item.star.name": "残滓の証",
     "story.???": "<???> ",
@@ -262,6 +263,16 @@
     "stage.gimmick.not_jump.lore": "ジャンプができなくなる。",
     "stage.rate_damage.name": "割合ダメージ",
     "stage.rate_damage.lore": "攻撃の中には体力の割合でダメージを与えてくるものもある。",
+    "stage.bow.name": "弓ついて",
+    "stage.bow.lore": "弓は矢を撃つと0.25秒のクールダウンが発生する。\nまた、矢を消費しない。",
+    "stage.crossbow.name": "絡繰り銃ついて",
+    "stage.crossbow.lore": "絡繰り銃（クロスボウ）はデフォルトで装填速度が上昇している。\nまた、矢を消費しない。",
+    "stage.damage.name": "敵へのダメージについて",
+    "stage.damage.lore": "この世界では敵の無敵時間が無くなっている。",
+    "stage.shard.name": "輝石について",
+    "stage.shard.lore.1": "輝石はさらなるステータスを付与する。",
+    "stage.shard.lore.2": "\nインベントリの左上3枠",
+    "stage.shard.lore.3": "に置くことで効果を発揮する。",
 
     "tp.open": "\ue010 新たなテレポーターが解放されました",
     "gate.open": "\ue010 ゲートが解放されました",
@@ -508,7 +519,7 @@
 
     "shop.item.other.arrow.normal.name": "矢",
     "shop.item.other.arrow.normal.lore.1": "至って普通の矢。",
-    "shop.item.other.arrow.normal.lore.2": "これと言った特徴がないのが特徴。",
+    "shop.item.other.arrow.normal.lore.2": "1本あれば無限に打てる。",
     "shop.item.other.arrow.slow.name": "鈍化の矢",
     "shop.item.other.arrow.slow.lore.1": "効果付きのちょっといい矢。",
     "shop.item.other.arrow.slow.lore.2": "たまには使ってあげてね。",
@@ -770,6 +781,14 @@
     "magic.boost.1.description": "\uf102一定時間魔法攻撃力が上昇する。",
     "magic.boost.1.lore.1": "魔力を増幅してくれる杖。",
     "magic.boost.1.lore.2": "魔術師はこれにより本来の力を得られる。",
+    "magic.fire-area.1.name": "深紅の杖",
+    "magic.fire-area.1.magic": "リトルメテオ",
+    "magic.fire-area.1.description.1": "\uf102小さな隕石を前方に射出し、",
+    "magic.fire-area.1.description.2": "\uf102敵に当たる・地面につくと爆発を起こし、",
+    "magic.fire-area.1.description.3": "\uf102小範囲内の敵にダメージを与える。",
+    "magic.fire-area.1.lore.1": "お手軽に隕石を召喚できる杖。",
+    "magic.fire-area.1.lore.2": "この杖は先祖が持ち帰ってきた知識から",
+    "magic.fire-area.1.lore.3": "作られたとされている。",
 
     "effect.minecraft.hero_of_the_village": "§5◆ 魔法攻撃力上昇 ◆",
 
@@ -780,7 +799,7 @@
     "token.lore": " のボスを討伐した証。",
     "token.common.lore": "お城の2階で交換できる。",
     "token.lore.3": "敵を倒すと稀に落とす徽章。",
-    "token.lore.3.count": " x5",
+    "token.lore.3.count": " x4",
 
     "token.shop.open": "\ue010 新たなショップが解放された。",
 
