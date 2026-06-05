@@ -745,6 +745,7 @@
     "stage.4.e-shard.4.lore.2": "同じく異質なものが使いこなせるのだろう。",
 
     "magic.no_mp.1": "\ue010 MP が足りない！ (必要 MP: ",
+    "magic.no_hp.1": "\ue010 HP が足りない！ (必要 HP: ",
     "magic.no_mp.2": ")",
     "magic.name.introduce": "\uf102◆ 魔法 : ",
     "magic.range": "\uf102\uE010 範囲 : ",
