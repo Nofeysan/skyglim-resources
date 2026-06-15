@@ -264,7 +264,7 @@
     "stage.rate_damage.name": "割合ダメージ",
     "stage.rate_damage.lore": "攻撃の中には体力の割合でダメージを与えてくるものもある。",
     "stage.bow.name": "弓ついて",
-    "stage.bow.lore": "弓は矢を撃つと0.25秒のクールダウンが発生する。\nまた、矢を消費しない。",
+    "stage.bow.lore": "弓は矢を撃つと少しの間クールダウンが発生する。\nまた、矢を消費しない。",
     "stage.crossbow.name": "絡繰り銃ついて",
     "stage.crossbow.lore": "絡繰り銃（クロスボウ）はデフォルトで装填速度が上昇している。\nまた、矢を消費しない。",
     "stage.damage.name": "敵へのダメージについて",
