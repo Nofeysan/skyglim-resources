@@ -77,11 +77,11 @@
     "story.tutorial.37": "それぞれの職業ごとに特徴があって、レベルアップ時のステータスアップもその特徴に沿って上がるよ",
     "story.tutorial.38": "§c1度決めたら変更できない§rからよ〜く選んでね！",
     
-    "tutorial.occupation.archer": "HPとSPDが伸びやすい。遠距離に倍率がかかる。",
-    "tutorial.occupation.berserker": "ATKが大きく伸びやすい。防御と魔法が弱体化する。",
-    "tutorial.occupation.tank": "HPが大きく伸び、DEFが伸びやすい。被ダメージが若干減少する。",
-    "tutorial.occupation.mage": "MPが伸びやすい。魔法に少し倍率がかかるが近接攻撃が弱体化する。",
-    "tutorial.occupation.auspice": "瑞祥(ずいしょう)\nLUCKが伸びやすい。CCに少し倍率がかかる。",
+    "tutorial.occupation.archer": "弓や絡繰り銃を扱うのに長けた職業。\nステータスは満遍なく成長する。\n§b遠距離攻撃が強化される§rが、近接攻撃が弱体化する。",
+    "tutorial.occupation.berserker": "近接の戦闘に長けた職業。\nSTRとCDが伸びやすい。\n§b近接攻撃が強化される§rが、防御と魔法が弱体化する。",
+    "tutorial.occupation.tank": "生存することに長けた職業。\nHPとDEFが伸びやすい。\n§b被ダメージが若干減少§rする。",
+    "tutorial.occupation.mage": "魔法での攻撃に長けた職業。\nMPが伸びやすい。\n§b魔法攻撃が強化される§rが、近接攻撃が弱体化する。",
+    "tutorial.occupation.auspice": "運の力で戦闘を有利にする職業。\n瑞祥(ずいしょう)\nLUCKが伸びやすい。\n§bCCとLUCKが強化§rされる。",
     "tutorial.occupation.choose": "\uf106§b[ これにする！ ]",
     "tutorial.occupation.fail": "\ue010 すでに職を選択済みです！",
 
@@ -101,8 +101,8 @@
     "story.guard.2.1": "もしかして君がアヴェリアン様がお呼びした冒険者かい?",
     "story.guard.2.2": "もしかして君たちがアヴェリアン様がお呼びした冒険者かい?",
 
-    "story.guard.2.replay.1": "そうだよ",
-    "story.guard.2.replay.2": "違うよ",
+    "story.guard.2.replay.1": "[ そうだよ ]",
+    "story.guard.2.replay.2": "[ 違うよ ]",
 
     "story.guard.3.1": "やはりそうでしたか！",
     "story.guard.3.2": "でもその佇まい......やはりアヴェリアン様がお呼びした冒険者に間違いありませんね",
