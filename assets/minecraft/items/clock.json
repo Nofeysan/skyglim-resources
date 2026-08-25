@@ -142,6 +142,55 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/shard/1114111"
                 }
+            },
+			{
+                "when": "1115009",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1115009"
+                }
+            },
+			{
+                "when": "1115010",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1115010"
+                }
+            },
+			{
+                "when": "1115011",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1115011"
+                }
+            },
+			{
+                "when": "1115109",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1115109"
+                }
+            },
+			{
+                "when": "1115110",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1115110"
+                }
+            },
+			{
+                "when": "1115111",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1115111"
+                }
+            },
+			{
+                "when": "1201009",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1201009"
+                }
             }
         ],
         "fallback": {
