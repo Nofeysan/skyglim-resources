@@ -20,6 +20,62 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/weapon/short_sword_1"
                 }
+            },
+            {
+                "when": "s.s.wood",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/weapon/s.s.wood"
+                }
+            },
+            {
+                "when": "s.s.stone",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/weapon/s.s.stone"
+                }
+            },
+            {
+                "when": "s.s.iron",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/weapon/s.s.iron"
+                }
+            },
+            {
+                "when": "s.s.gold",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/weapon/s.s.gold"
+                }
+            },
+            {
+                "when": "s.s.diamond",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/weapon/s.s.diamond"
+                }
+            },
+            {
+                "when": "s.s.netherite",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/weapon/s.s.netherite"
+                }
+            },
+			{
+                "when": "1202100",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/weapon/1202100"
+                }
+            },
+			{
+                "when": "1203102",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/weapon/1203102"
+                }
             }
         ]
     }
