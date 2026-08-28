@@ -53,13 +53,6 @@
                 }
             },
 			{
-                "when": "1109010",
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "minecraft:item/shard/1109010"
-                }
-            },
-			{
                 "when": "1110009",
                 "model": {
                     "type": "minecraft:model",
@@ -186,10 +179,94 @@
                 }
             },
 			{
+                "when": "1115209",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1115209"
+                }
+            },
+			{
                 "when": "1201009",
                 "model": {
                     "type": "minecraft:model",
                     "model": "minecraft:item/shard/1201009"
+                }
+            },
+			{
+                "when": "1201010",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1201010"
+                }
+            },
+			{
+                "when": "1201011",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1201011"
+                }
+            },
+			{
+                "when": "1202009",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1202009"
+                }
+            },
+			{
+                "when": "1202010",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1202010"
+                }
+            },
+			{
+                "when": "1202011",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1202011"
+                }
+            },
+			{
+                "when": "1203009",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1203009"
+                }
+            },
+			{
+                "when": "1203109",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1203109"
+                }
+            },
+			{
+                "when": "1203110",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1203110"
+                }
+            },
+			{
+                "when": "1203111",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1203111"
+                }
+            },
+			{
+                "when": "1203209",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1203209"
+                }
+            },
+			{
+                "when": "1203210",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/shard/1203210"
                 }
             }
         ],
