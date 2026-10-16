@@ -1,6 +1,76 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"aj:skyglim/avelian": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/skyglim/avelian/body.json",
+				"assets/aj/items/blueprint/skyglim/avelian/cap.json",
+				"assets/aj/items/blueprint/skyglim/avelian/hair.json",
+				"assets/aj/items/blueprint/skyglim/avelian/head.json",
+				"assets/aj/items/blueprint/skyglim/avelian/left.json",
+				"assets/aj/items/blueprint/skyglim/avelian/left1.json",
+				"assets/aj/items/blueprint/skyglim/avelian/line.json",
+				"assets/aj/items/blueprint/skyglim/avelian/manto.json",
+				"assets/aj/items/blueprint/skyglim/avelian/nekutai.json",
+				"assets/aj/items/blueprint/skyglim/avelian/right.json",
+				"assets/aj/items/blueprint/skyglim/avelian/right1.json",
+				"assets/aj/models/blueprint/skyglim/avelian/body.json",
+				"assets/aj/models/blueprint/skyglim/avelian/cap.json",
+				"assets/aj/models/blueprint/skyglim/avelian/hair.json",
+				"assets/aj/models/blueprint/skyglim/avelian/head.json",
+				"assets/aj/models/blueprint/skyglim/avelian/left.json",
+				"assets/aj/models/blueprint/skyglim/avelian/left1.json",
+				"assets/aj/models/blueprint/skyglim/avelian/line.json",
+				"assets/aj/models/blueprint/skyglim/avelian/manto.json",
+				"assets/aj/models/blueprint/skyglim/avelian/nekutai.json",
+				"assets/aj/models/blueprint/skyglim/avelian/right.json",
+				"assets/aj/models/blueprint/skyglim/avelian/right1.json",
+				"assets/aj/textures/blueprint/skyglim/avelian/avelian.png"
+			]
+		},
+		"aj:skyglim/cecile": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/skyglim/cecile/ahoge.json",
+				"assets/aj/items/blueprint/skyglim/cecile/body.json",
+				"assets/aj/items/blueprint/skyglim/cecile/head.json",
+				"assets/aj/items/blueprint/skyglim/cecile/left.json",
+				"assets/aj/items/blueprint/skyglim/cecile/left1.json",
+				"assets/aj/items/blueprint/skyglim/cecile/right.json",
+				"assets/aj/items/blueprint/skyglim/cecile/right1.json",
+				"assets/aj/models/blueprint/skyglim/cecile/ahoge.json",
+				"assets/aj/models/blueprint/skyglim/cecile/body.json",
+				"assets/aj/models/blueprint/skyglim/cecile/head.json",
+				"assets/aj/models/blueprint/skyglim/cecile/left.json",
+				"assets/aj/models/blueprint/skyglim/cecile/left1.json",
+				"assets/aj/models/blueprint/skyglim/cecile/right.json",
+				"assets/aj/models/blueprint/skyglim/cecile/right1.json",
+				"assets/aj/textures/blueprint/skyglim/cecile/cecile.png"
+			]
+		},
+		"aj:skyglim/kalmia": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/skyglim/kalmia/body.json",
+				"assets/aj/items/blueprint/skyglim/kalmia/head.json",
+				"assets/aj/items/blueprint/skyglim/kalmia/left.json",
+				"assets/aj/items/blueprint/skyglim/kalmia/left1.json",
+				"assets/aj/items/blueprint/skyglim/kalmia/right.json",
+				"assets/aj/items/blueprint/skyglim/kalmia/right1.json",
+				"assets/aj/items/blueprint/skyglim/kalmia/skirt.json",
+				"assets/aj/items/blueprint/skyglim/kalmia/wear.json",
+				"assets/aj/models/blueprint/skyglim/kalmia/body.json",
+				"assets/aj/models/blueprint/skyglim/kalmia/head.json",
+				"assets/aj/models/blueprint/skyglim/kalmia/left.json",
+				"assets/aj/models/blueprint/skyglim/kalmia/left1.json",
+				"assets/aj/models/blueprint/skyglim/kalmia/right.json",
+				"assets/aj/models/blueprint/skyglim/kalmia/right1.json",
+				"assets/aj/models/blueprint/skyglim/kalmia/skirt.json",
+				"assets/aj/models/blueprint/skyglim/kalmia/wear.json",
+				"assets/aj/textures/blueprint/skyglim/kalmia/calmia.png"
+			]
+		},
 		"kirame": {
 			"versionedFiles": [
 				"assets/animated_java/models/empty.json",
