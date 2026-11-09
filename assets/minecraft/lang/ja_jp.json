@@ -1,7 +1,8 @@
 {
-    "difficulty.oracle.description": "ワールドのデフォルトの難易度。\n初めての方や戦闘が苦手な方に。",
-    "difficulty.verdict.description": "少し難しい難易度。\nちょっと手ごたえが欲しいあなたに。\n\n敵の§c攻撃力§r・§9防御力§rが§2少し上昇§rする。",
-    "difficulty.singularity.description": "かなり難しい難易度。\n刺激的な戦闘を味わいたいあなたに。\n\n敵の§d体力§r・§c攻撃力§r・§9防御力§rが§4それなりに上昇§rする。",
+    "difficulty.oracle.description": "アクションが苦手な方やアドベンチャーマップが初めての人向け。\n§a戦闘難易度が減少§rし、ゲームをスムーズに進めることができる。",
+    "difficulty.verdict.description": "戦闘に慣れており、本格的な冒険を行いたい人向け。\n§3想定される通常の戦闘難易度§rで、多くの人に推奨される。",
+    "difficulty.singularity.description": "よりスパイシーな戦闘と冒険を行いたい人向け。\n§c敵が全体的に強く§rなり、入念な準備とプレイスキルが求められる。",
+    "difficulty.paradox.description": "極限の戦闘で自身の限界に挑みたい人向け。\nさらに§4敵及び一部行動が強化される§rうえ、戦闘システムへの理解も求められる。",
     "difficulty.select.button": "\uf104§6\ue011  選択する \ue010",
     "difficulty.selected.1": "\ue010 難易度を ",
     "difficulty.selected.2": " に設定しました。",
@@ -112,6 +113,7 @@
     "story.guard.6": "§6ようこそ、スカイグリムへ！§r",
 
     "story.avelian": "<アヴェリアン> ",
+
     "villager.talk.avelian.1": "次に進む道はふさがっていたどこかが開いているはずだ。",
     "villager.talk.avelian.2": "この町の誰もが冒険にあこがれているが、なぜか適合していないのだ......",
     "villager.talk.avelian.3": "神託は最も重要である。君らが来たのもその所為ではないか?",
@@ -313,7 +315,7 @@
 
     "tp.open": "\ue010 新たなテレポーターが解放されました",
     "sub.tp.open": "\ue010 中間テレポーターが解放されました",
-    "story.avelian.has.conv": "\ue010 アヴェリアンから話があるようです......",
+    "story.avelian.has.conv": "\n\ue010 アヴェリアンから話があるようです......\n",
     "gate.open": "\ue010 ゲートが解放されました",
 
     "tips.0": "MP最大値の上昇でも魔法のダメージは上昇します。",
@@ -1838,7 +1840,7 @@
     "entity.stage.6.6.name": "キャンディー（黒）",
     "entity.stage.6.6.lore": "刺激的な味がするキャンディー。\n普通の味では物足りなくなり、\n独自の味の進化を遂げることができた。",
     "entity.stage.6.boss.name": "キャンディーキング",
-    "entity.stage.6.boss.lore": "あらゆるキャンディーを集める王。\nキャンディーを砕いて全部混ぜて食べる癖があり、\n畏怖の対象となっている。",
+    "entity.stage.6.boss.lore": "飴をこよなく愛するケーキのヌシ。\nここに巣くう4種類の飴はとっくに飽きているが\nそんな気持ちに嘘をついて今日も過ごしている。",
     "entity.stage.7.1.name": "腐敗した固形燃料",
     "entity.stage.7.1.lore": "長年放置された固形燃料。\n怨念が宿り、使われなかったことよりも\n捨てられたことに怒りを抱いている。",
     "entity.stage.7.2.name": "燃え盛る固形燃料",
