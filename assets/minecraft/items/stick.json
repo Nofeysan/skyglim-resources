@@ -34,6 +34,20 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/appraise"
                 }
+            },
+            {
+                "when": "heal_rod_2",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/magic/heal_rod_2"
+                }
+            },
+            {
+                "when": "fire_rod_2",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/magic/fire_rod_2"
+                }
             }
         ]
     }
