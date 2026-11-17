@@ -1,3 +1,7 @@
 {
-    "music.ending": {"sounds": [{"name": "skyglim:a"}]}
+    "ending": {
+        "sounds": [
+            {"name": "skyglim:chronoexplorers-nofeys-craftedver"}
+            ]
+        }
 }
