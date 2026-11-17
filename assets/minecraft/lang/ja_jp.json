@@ -246,6 +246,7 @@
     "story.cloud.village.1-10": "海賊船に乗り込み、進んでいくと特異点に飛び込んで転移することができます。",
     "story.cloud.village.1-11": "そこを進んでいけばセシルのいる研究所にたどり着けるはずです......！",
     "story.cloud.village.1-12": "これを使えば森の奥にある隠された船までの道が開きます。どうか、これでセシルを助けてください......！",
+    "story.cloud.village.1-12-give": "§7\n\ue010 「船型の秘密鍵」を受け取った\n",
 
     "story.avelian.9-1": "......天空の者たちと、会えたのだな。",
     "story.avelian.9-2": "......そうか。皆、生きていたのか......。",
@@ -283,9 +284,10 @@
     "story.avelian.12-5": "意識コアの退避......？負荷から逃れるため、自ら創った世界の一番奥へ引きこもったというのか......！",
     "story.avelian.12-6": "待て、この金属片......見覚えがあるぞ。我が王家の宝物庫に、これと全く同じ意匠の古い羅針盤が眠っていたはずだ！",
     "story.avelian.12-7": "......",
-    "story.avelian.12-8": "やはりだ！ 金属片を近づけると、激しく光を放ち始めた......！",
-    "story.avelian.12-9": "この反応......指し示している方角は......§b『お菓子の国』§rの領域だ！",
-    "story.avelian.12-10": "あいつめ、一番最初に創った夢の世界の裏に、自分の本当の居場所を隠していたのだな......！",
+    "story.avelian.12-8": "この魔力片と合わせれば、あいつの居場所が分かるはずだ！",
+    "story.avelian.12-9": "そして、真の最奥――あいつのいる空間への扉が開くはずだ。",
+    "story.avelian.12-10": "今度こそ、本当の決戦だ。あいつを引きずり出して、目を覚まさせてやってくれ！",
+
     "story.avelian.12-11": "この共鳴させた金属片を持っていけば、お菓子の国のどこかで反応し、真の最奥――あいつのいる空間への扉が開くはずだ。",
     "story.avelian.12-12": "今度こそ、本当の決戦だ。あいつを引きずり出して、目を覚まさせてやってくれ！",
 
@@ -370,7 +372,7 @@
     "story.cecile.ex3-7": "付き合ってくれるかい、プレイヤー？ 僕一人だと、会った瞬間に消し炭にされそうだからさ！",
 
     "story.avelian.14-1": "プレイヤーか......？ 宝物庫の探索は終わったの-\uf201-\uf201-\uf201-",
-    "story.avelian.14-2": "よっ、アヴェリアン！ 生きて戻ったよ〜！",
+    "story.avelian.14-2": "よっ、アヴェリアン！ 戻ったよ〜！",
     "story.avelian.14-3": "............は？",
     "story.avelian.14-4": "えへへ、プレイヤーが集めてくれたクロマリアの魔力で、データロイドの体を編んだんだ！これくらい天才の僕には朝飯-\uf201-\uf201-\uf201-ぎゃふん！",
     "story.avelian.14-5": "この......っ、大馬鹿野郎がぁぁぁーーっ！！",
@@ -405,7 +407,7 @@
     "story.cailmia.2-6": "あっちの世界の王様と魔導士くん、君のことすっごく気に入ったみたいだからさ。",
     "story.cailmia.2-7": "いつでも遊びに行けるように、Skyglimへのポータルは常時接続にしておいたよ！",
     "story.cailmia.2-8": "気が向いたらいつでも顔を出してあげてね。特にアヴェリアンは口には出さないけどきっと待ってるから！",
-    "story.cailmia.2-9": "それじゃあ、本当にありがとう！ また別の世界の理が乱れた時は......よろしくねーっ！",
+    "story.cailmia.2-9": "それじゃあ、本当にありがとう！ また世界の理が乱れた時は......よろしくねーっ！",
 
     "credit.": "",
 
@@ -2118,11 +2120,59 @@
     "stage.12.gate.item.key.lore.2": "これがあるなら、平和に近づいたのだろう。",
     "stage.12.gate.item.key.lore.3": "[特定の場所の近くで右クリック] - 浄化",
 
+    "stage.13.gate.item.key.name": "船型の秘密鍵",
+    "stage.13.gate.item.key.lore.1": "森の中にある海賊船への道を開く鍵。",
+    "stage.13.gate.item.key.lore.2": "優雅な船旅？それとも、苛烈な争い？",
+    "stage.13.gate.item.key.lore.3": "[特定の場所の近くで右クリック] - 解放",
+    "stage.13.gate.open": "\n\ue010 壁が崩れた。\n",
+
+    "stage.14.gate.item.key.name": "転移魔力源",
+    "stage.14.gate.item.key.lore.1": "異界につながるテレポーターを起動できる。",
+    "stage.14.gate.item.key.lore.2": "一方向のテレポートであれば、安定した転移が可能。",
+    "stage.14.gate.item.key.lore.3": "[特定の場所の近くで右クリック] - 起動",
+    "stage.14.gate.open": "\n\ue010 テレポーターが開通した。\n",
+
+    "stage.15.paper.name": "走り書きされた小さなメモ",
+    "stage.15.paper.lore.1": ".....演算限界。防衛プロトコルを最終フェーズへ移行。",
+    "stage.15.paper.lore.2": "空間の維持負荷が脳を焼き切る前に、",
+    "stage.15.paper.lore.3": "僕の意識を最も安全で、最もノイズの少ない領域へ移動させる。",
+    "stage.15.paper.lore.4": "あの場所なら、アヴェリアンにも見つからないはず。",
+    "stage.15.paper.lore.5": "このカギは、アヴェリアンが持っている",
+    "stage.15.paper.lore.6": "「対」の触媒と共鳴させないと開かない。",
+    "stage.15.paper.lore.7": "あいつがこれを見つける頃には、全部終わっているといいな。",
+
+    "stage.15.compass.shard.name": "奇妙な金属片",
+    "stage.15.compass.shard.lore.1": "セシルの魔力が込められた金属片。",
+    "stage.15.compass.shard.lore.2": "対となる魔力を感知すると一体となり、",
+    "stage.15.compass.shard.lore.3": "秘密の扉を開けることができるようになる。",
+    "stage.15.compass.shard.lore.4": "[クラフト台で使用]",
+
+    "stage.16.compass.shard.name": "奇妙な魔力片",
+    "stage.16.compass.shard.lore.1": "アヴェリアンの魔力が込められた金属片。",
+    "stage.16.compass.shard.lore.2": "対となる魔力を感知すると一体となり、",
+    "stage.16.compass.shard.lore.3": "秘密の扉を開けることができるようになる。",
+    "stage.16.compass.shard.lore.4": "[クラフト台で使用]",
+
+    "stage.16.gate.book.name": "終焉のコンパスの作り方",
+    "stage.16.gate.book.lore.1": "\uf102語るのは後だ。",
+    "stage.16.gate.book.lore.2": "\uf102すべてを終わらせにいこう。",
+    "stage.16.gate.book.recipe.1.1": "◆ 浄化純結晶\n\n",
+    "stage.16.gate.book.recipe.1.2": "\uf105\uf103§7\ue012§7\ue012§7\ue012\n",
+    "stage.16.gate.book.recipe.1.3": "\uf105\uf103§3\ue012§7\ue012§4\ue012\n",
+    "stage.16.gate.book.recipe.1.4": "\uf105\uf103§7\ue012§7\ue012§7\ue012\n\n",
+    "stage.16.gate.book.recipe.1.5": "§3\ue012§7\uf101\ue010\uf101§0奇妙な金属片 x1\n",
+    "stage.16.gate.book.recipe.1.6": "§4\ue012§7\uf101\ue010\uf101§0奇妙な魔力片 x1\n",
+
+    "stage.16.compass.name": "終焉のコンパス",
+    "stage.16.compass.lore.1": "コンパスの指し示す先で使用することで",
+    "stage.16.compass.lore.2": "とある場所への道が開かれる。",
+    "stage.16.compass.lore.3": "[特定の場所の近くで右クリック] - 解放",
+
     "stage.ex5.torch.item.name": "松明",
     "stage.ex5.torch.item.lore.1": "極寒の環境で暖を取ることができる松明。",
     "stage.ex5.torch.item.lore.2": "なくなると継続的にダメージを受けてしまう。",
     "stage.ex5.torch.item.lore.3": "§b焚き火の近く§rに行くことで個数を回復できる。",
-    "stage.ex5.torch.item.lore.4": "※オフハンドに持ってる時のみ効果を発揮",
+    "stage.ex5.torch.item.lore.4": "※オフハンドに持ってる時のみ効果を発揮する",
 
     "entity.stage.1.1.name": "腐朽の採掘士",
     "entity.stage.1.1.lore": "ここで朽ち果ててしまった採掘士。\n肉体はそのまま腐ってしまった。",
