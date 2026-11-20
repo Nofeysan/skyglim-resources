@@ -314,7 +314,7 @@
     "story.avelian.13-1": "戻ったか、プレイヤー......。",
     "story.avelian.13-2": "街の民たちが目を覚まし始めている。ソムニライトの異常な過眠魔力も、嘘のように消え去った。",
     "story.avelian.13-3": "......だが......あいつは......？",
-    "story.avelian.13-4": "............…",
+    "story.avelian.13-4": "............",
     "story.avelian.13-5": "消滅、した......？ 光になって......消えた、だと......？",
     "story.avelian.13-6": "嘘だ......嘘だろセシル......！ なんで......なんでだよ......！！",
     "story.avelian.13-7": "連れて帰ってきてくれって頼んだじゃないか......！ 『朝飯前』じゃなかったのかよ......！！",
@@ -323,7 +323,7 @@
     "story.avelian.13-10": "............",
     "story.avelian.13-11": "......すまない。見苦しいところを見せた。",
     "story.avelian.13-12": "お主は......約束通り、この街を救ってくれたのだ。最大の功労者だ。",
-    "story.avelian.13-13": "これは、ささやかな報酬だ。我が王家の『宝物庫』を開放する鍵だ。",
+    "story.avelian.13-13": "これは、ささやかな報酬だ。我が王家の『宝物庫』を開放する鍵だ。のちに家に届けさせる。",
     "story.avelian.13-14": "お主らなら、その中のものはより有意義に使うことができるだろう。",
     "story.avelian.13-15": "......本当に、ありがとう。",
 
@@ -333,7 +333,7 @@
     "story.cecile.ex1-4": "ほら見て、透けてるでしょ！？ ただの魔力体！ データなの！！",
     "story.cecile.ex1-5": "え、わかんない？",
     "story.cecile.ex1-6": "............ともかく！今は魔力体なの！無害無害！！",
-    "story.cecile.ex1-7": "ふぅ......びっくりしたぁ......。あの時は本当にごめんね！空間の歪みとモンスターの毒素に当てられて、完全にトチ狂ってたんだよ。",
+    "story.cecile.ex1-7": "ふぅ......びっくりしたぁ......。あの時は本当にごめんね！空間の歪みとモンスターの毒素に当てられて、完全に狂ってたんだよ。",
     "story.cecile.ex1-8": "......え？ なんで生きてるのかって？",
     "story.cecile.ex1-9": "ふっふーん！ 僕を誰だと思ってるの？ 宮廷魔導士筆頭、天才セシル様だよ！",
     "story.cecile.ex1-10": "ほら、モンスターって魔力体じゃん？それをみて、『肉体が滅んでも、思考と意識を魔力データとしてバックアップする魔法』を開発しておいたのさ！",
@@ -345,6 +345,7 @@
     "story.cecile.ex1-16": "あれだけの高密度魔力があれば、現実世界でも安定して存在できるデータロイドを再構築できるんだ！",
     "story.cecile.ex1-17": "あ、このことはアヴェリアンとか他の人には内緒だよ！",
     "story.cecile.ex1-18": "じゃあお願いね！ぷれいやー！",
+    "story.cecile.ex1-18-t": "\n\ue010 世界各地から Chromalier を集め、\n\ue010 中央に投げて納品しよう。\n",
 
     "story.cecile.ex2-1": "うわあ......！8色すべてのクロマリアが揃った......！",
     "story.cecile.ex2-2": "すごーい！これだけの魔力があれば、完璧なデータロイドを編めるぞ！",
@@ -2164,15 +2165,63 @@
     "stage.16.gate.book.recipe.1.6": "§4\ue012§7\uf101\ue010\uf101§0奇妙な魔力片 x1\n",
 
     "stage.16.compass.name": "終焉のコンパス",
-    "stage.16.compass.lore.1": "コンパスの指し示す先で使用することで",
-    "stage.16.compass.lore.2": "とある場所への道が開かれる。",
+    "stage.16.compass.lore.1": "迷いなき針の先、たどり着く終着点。",
+    "stage.16.compass.lore.2": "あなたは、この物語の終わりを見届ける。",
     "stage.16.compass.lore.3": "[特定の場所の近くで右クリック] - 解放",
+
+    "stage.houmotsuko.key.name": "宝物庫の鍵",
+    "stage.houmotsuko.key.lore.1": "王家の宝物庫を開放するための鍵。",
+    "stage.houmotsuko.key.lore.2": "王家以外は、功績をあげた者以外は入れない。",
+    "stage.houmotsuko.key.lore.3": "[特定の場所の近くで右クリック] - 解放",
+    "stage.houmotsuko.open": "\n\ue010 宝物庫の扉が開いた。\n",
 
     "stage.ex5.torch.item.name": "松明",
     "stage.ex5.torch.item.lore.1": "極寒の環境で暖を取ることができる松明。",
     "stage.ex5.torch.item.lore.2": "なくなると継続的にダメージを受けてしまう。",
     "stage.ex5.torch.item.lore.3": "§b焚き火の近く§rに行くことで個数を回復できる。",
     "stage.ex5.torch.item.lore.4": "※オフハンドに持ってる時のみ効果を発揮する",
+
+    "specila.chromalier.common.lore": "[秘密の研究所で使用]",
+
+    "specila.chromalier.white.name": "Chromalier -White-",
+    "specila.chromalier.white.lore.1": "深く暗い地の底で、静かに息づく魔力の結晶。",
+    "specila.chromalier.white.lore.2": "迷い込んだ者たちが二度と地上へ戻らぬように、",
+    "specila.chromalier.white.lore.3": "冷たい岩肌の奥で、小さなあかりをともし続けている。",
+
+    "specila.chromalier.yellow.name": "Chromalier -Yellow-",
+    "specila.chromalier.yellow.lore.1": "どこまでも木々が続くように思わせる結晶。",
+    "specila.chromalier.yellow.lore.2": "葉擦れの音が人々を癒し、",
+    "specila.chromalier.yellow.lore.3": "荒ぶる者たちは、穏やかな眠りにつく。",
+
+    "specila.chromalier.green.name": "Chromalier -Green-",
+    "specila.chromalier.green.lore.1": "甘い香りと終わらないお祝いの夢を閉じ込めた結晶。",
+    "specila.chromalier.green.lore.2": "幼い日にページをめくった、あの絵本の記憶から生まれた。",
+    "specila.chromalier.green.lore.3": "どうかこの場所は、ずっと楽しくありますように。",
+
+    "specila.chromalier.light_blue.name": "Chromalier -Light Blue-",
+    "specila.chromalier.light_blue.lore.1": "世界のすきまと不思議な術式を繋ぐ結晶。",
+    "specila.chromalier.light_blue.lore.2": "誰にも見られない場所で、一人積み上げた理論と、",
+    "specila.chromalier.light_blue.lore.3": "偏屈な魔女の気まぐれさえも、優しく受け止める。",
+
+    "specila.chromalier.cyan.name": "Chromalier -Cyan-",
+    "specila.chromalier.cyan.lore.1": "しんしんと降り積もる、冷たくてきれいな銀世界の結晶。",
+    "specila.chromalier.cyan.lore.2": "雪がつなぐ二人の思い出は、太陽のように温かい。",
+    "specila.chromalier.cyan.lore.3": "結晶からは、誰かを想う暖かな熱が伝わってくる。",
+    
+    "specila.chromalier.pink.name": "Chromalier -Pink-",
+    "specila.chromalier.pink.lore.1": "雲の上に浮かぶ、静かな安息の場所を守る結晶。",
+    "specila.chromalier.pink.lore.2": "みんながもう二度と怖い思いをしないように、",
+    "specila.chromalier.pink.lore.3": "澄み切った青空の輝きを、いつまでも絶やさない。",
+    
+    "specila.chromalier.magenta.name": "Chromalier -Magenta-",
+    "specila.chromalier.magenta.lore.1": "果てしない闇と重力のない空間を繋ぎとめる結晶。",
+    "specila.chromalier.magenta.lore.2": "混沌の『住人』たちをここに閉じ込める。",
+    "specila.chromalier.magenta.lore.3": "世界の淵を削りながら、何とか均衡を保っている。",
+    
+    "specila.chromalier.black.name": "Chromalier -Black-",
+    "specila.chromalier.black.lore.1": "広く世界を見守り、世界を支える結晶。",
+    "specila.chromalier.black.lore.2": "何があっても壊れることも消えることもなく、",
+    "specila.chromalier.black.lore.3": "ただ一つ、大切な街を守るためだけに輝き続けている。",
 
     "entity.stage.1.1.name": "腐朽の採掘士",
     "entity.stage.1.1.lore": "ここで朽ち果ててしまった採掘士。\n肉体はそのまま腐ってしまった。",

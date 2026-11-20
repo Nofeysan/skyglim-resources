@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Animated Java (https://github.com/Animated-Java/animated-java) via Blockbench",
 	"textures": {
 		"0": "aj:blueprint/skyglim/avelian/avelian",
 		"particle": "minecraft:item/pufferfish"
@@ -40,7 +41,7 @@
 			}
 		},
 		{
-			"from": [-4.08018, 25.43071, 5.83036],
+			"from": [-4.08018, 25.4307, 5.83036],
 			"to": [-2.34447, 25.64767, 6.04732],
 			"rotation": {
 				"angle": -22.5,
@@ -75,7 +76,7 @@
 			}
 		},
 		{
-			"from": [18.18411, 25.49713, 5.83036],
+			"from": [18.1841, 25.49713, 5.83036],
 			"to": [19.91982, 25.71409, 6.04732],
 			"rotation": {
 				"angle": 22.5,
