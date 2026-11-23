@@ -2279,6 +2279,8 @@
     "stage.13.gate.item.key.lore.2": "優雅な船旅？それとも、苛烈な争い？",
     "stage.13.gate.item.key.lore.3": "[特定の場所の近くで右クリック] - 解放",
     "stage.13.gate.open": "\n\ue010 壁が崩れた。\n",
+    "stage.13.button.press": "\ue010 ボタンが一つ押された",
+    "stage.13.button.press.open": "\n\ue010 ボスへつながる扉が開いた。\n",
 
     "stage.14.gate.item.key.name": "転移魔力源",
     "stage.14.gate.item.key.lore.1": "異界につながるテレポーターを起動できる。",
@@ -2351,6 +2353,14 @@
     "stage.sp.gate.key.lore.2": "表舞台に記されない、隔離された試練の領域を解放する。",
     "stage.sp.gate.key.lore.3": "-\uf200-\uf200-\uf200 あなたは、終わりの向こう側にある景色を目にする。",
     "stage.sp.gate.key.lore.4": "[特定の場所の近くで右クリック] - 解放",
+    "stage.sp.gate.open.white": "\n\ue010 白の壁が崩れた。\n",
+    "stage.sp.gate.open.yellow": "\n\ue010 黄色の壁が崩れた。\n",
+    "stage.sp.gate.open.green": "\n\ue010 緑の壁が崩れた。\n",
+    "stage.sp.gate.open.light_blue": "\n\ue010 水色の壁が崩れた。\n",
+    "stage.sp.gate.open.cyan": "\n\ue010 青緑色の壁が崩れた。\n",
+    "stage.sp.gate.open.pink": "\n\ue010 桃色の壁が崩れた。\n",
+    "stage.sp.gate.open.magenta": "\n\ue010 紫色の壁が崩れた。\n",
+    "stage.sp.gate.open.black": "\n\ue010 黒の壁が崩れた。\n",
 
     "stage.houmotsuko.key.name": "宝物庫の鍵",
     "stage.houmotsuko.key.lore.1": "王家の宝物庫を開放するための鍵。",
@@ -2363,6 +2373,7 @@
     "stage.ex5.torch.item.lore.2": "なくなると継続的にダメージを受けてしまう。",
     "stage.ex5.torch.item.lore.3": "§b焚き火の近く§rに行くことで個数を回復できる。",
     "stage.ex5.torch.item.lore.4": "※オフハンドに持ってる時のみ効果を発揮する",
+    "stage.ex5.enter.fail": "\ue010 このステージではオフハンドは使用できません！\n\ue010 オフハンドを開けた状態で入場してください",
 
     "specila.chromalier.common.lore": "[秘密の研究所で使用]",
 
